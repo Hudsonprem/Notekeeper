@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Notekeeper/static/js/main.4dfb33b4.chunk.js",
+    "main.js.map": "/Notekeeper/static/js/main.4dfb33b4.chunk.js.map",
+    "runtime-main.js": "/Notekeeper/static/js/runtime-main.61d56959.js",
+    "runtime-main.js.map": "/Notekeeper/static/js/runtime-main.61d56959.js.map",
+    "static/js/2.0e3c4614.chunk.js": "/Notekeeper/static/js/2.0e3c4614.chunk.js",
+    "static/js/2.0e3c4614.chunk.js.map": "/Notekeeper/static/js/2.0e3c4614.chunk.js.map",
+    "index.html": "/Notekeeper/index.html",
+    "precache-manifest.573858ba28c0aed1f4a83350f001f273.js": "/Notekeeper/precache-manifest.573858ba28c0aed1f4a83350f001f273.js",
+    "service-worker.js": "/Notekeeper/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61d56959.js",
+    "static/js/2.0e3c4614.chunk.js",
+    "static/js/main.4dfb33b4.chunk.js"
+  ]
+}
